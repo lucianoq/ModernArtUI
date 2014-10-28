@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">ModernArtUI</string>
+    <string name="more_info">More Information</string>
+    <string name="dialog_ok">Visit website!</string>
+    <string name="dialog_cancel">Cancel</string>
+    <string name="dialog_message">Inspired by the work of Sol LeWitt\n\nClick below to learn more…</string>
+
+</resources>
